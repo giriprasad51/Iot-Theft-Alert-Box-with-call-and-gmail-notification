@@ -5,7 +5,7 @@
 Connect the WI-FI module to the Ultra-sonic sensor and integrate them with the breadboard with the Led-light and buzzer connected to it.
 By using C++ Ultra-sonic sensor is setup and indentify a object from 0 to less than box height and greater than box height to 30 cm
 
-<a href="url"><img src="https://github.com/giriprasad51/Iot-Theft-Alert-Box-with-call-and-gmail-notification/blob/main/imgs/Picture1.png" align="left" height="1000" width="700" ></a>
+<a href="url"><img src="https://github.com/giriprasad51/Iot-Theft-Alert-Box-with-call-and-gmail-notification/blob/main/imgs/Picture1.png" align="left" height="400" width="600" ></a>
 
 
 
